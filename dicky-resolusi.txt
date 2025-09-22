@@ -1,0 +1,6 @@
+Dicky Resolusi
+  - Belajar Linux Sysadmin
+  - WSL For Kali Linux
+  - Docker
+  - Kubernetes
+  - Cloud Computing
