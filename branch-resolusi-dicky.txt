@@ -2,3 +2,6 @@ ini hanya contoh brnach untuk latihan selanjutnya yaitu merge
 
 
 saya ingin melakukan commit pada branch saya
+
+
+branch sudah saya hapus
