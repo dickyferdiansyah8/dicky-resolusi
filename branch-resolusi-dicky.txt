@@ -7,5 +7,8 @@ saya ingin melakukan commit pada branch saya
 branch sudah saya hapus
 
 
-SI A ingin belajar docker
-SI A juga ingin belajar mengenai cyber security
+
+SI B ingin belajar Cloud computing
+
+
+akan tetapi si B juga ingin belajar cyber security dulu
